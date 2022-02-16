@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Coffee.fs" />
+    <Compile Include="Functions.fs" />
+    <Compile Include="Composition.fs" />
+    <Compile Include="Types.fs" />
+  </ItemGroup>
+</Project>

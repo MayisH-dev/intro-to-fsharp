@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DotnetLearn.IntroToFSharp.Tests", "DotnetLearn.IntroToFSharp.Tests\DotnetLearn.IntroToFSharp.Tests.fsproj", "{B155E583-203B-4BB2-A5FB-7294BA15AF7A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DotnetLearn.IntroToFSharp.Library", "DotnetLearn.IntroToFSharp.Library\DotnetLearn.IntroToFSharp.Library.fsproj", "{45F12206-00CF-4F9C-83D6-F549C7CBC599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLearn.IntroToFSharp.CSharp", "DotnetLearn.IntroToFSharp.CSharp\DotnetLearn.IntroToFSharp.CSharp.csproj", "{AD9BE745-4A06-4E4B-B6E3-B718B6FA0F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B155E583-203B-4BB2-A5FB-7294BA15AF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B155E583-203B-4BB2-A5FB-7294BA15AF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B155E583-203B-4BB2-A5FB-7294BA15AF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B155E583-203B-4BB2-A5FB-7294BA15AF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F12206-00CF-4F9C-83D6-F549C7CBC599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F12206-00CF-4F9C-83D6-F549C7CBC599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F12206-00CF-4F9C-83D6-F549C7CBC599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F12206-00CF-4F9C-83D6-F549C7CBC599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9BE745-4A06-4E4B-B6E3-B718B6FA0F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9BE745-4A06-4E4B-B6E3-B718B6FA0F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9BE745-4A06-4E4B-B6E3-B718B6FA0F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9BE745-4A06-4E4B-B6E3-B718B6FA0F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
